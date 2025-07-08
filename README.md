@@ -38,7 +38,7 @@ matrici/
 
 ## Requisiti
 
-- Python 3.x
+- Python 3
 
 ## Note
 
@@ -47,11 +47,7 @@ matrici/
   - Gestione di file CSV
   - Operazioni su matrici (liste di liste)
   - Algoritmi di base (somma, ricerca, ordinamento, ecc.)
-
-## Autore
-
-Materiale didattico per esercitazioni Python.
-
+  
 ---
 
 Per domande o suggerimenti, apri una issue su GitHub.
