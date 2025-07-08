@@ -1,0 +1,92 @@
+United States of America: 126
+China: 91
+Japan: 45
+Australia: 53
+France: 64
+Netherlands: 34
+Great Britain: 65
+South Korea: 32
+Italy: 40
+Germany: 33
+New Zealand: 20
+Canada: 27
+Uzbekistan: 13
+Hungary: 19
+Spain: 18
+Sweden: 11
+Kenya: 11
+Norway: 8
+Ireland: 7
+Brazil: 20
+Iran: 12
+Ukraine: 12
+Romania: 9
+Georgia: 7
+Belgium: 10
+Bulgaria: 7
+Serbia: 5
+Czechia: 5
+Denmark: 9
+Azerbaijan: 7
+Croatia: 7
+Cuba: 9
+Bahrain: 4
+Slovenia: 3
+Chinese Taipei: 7
+Austria: 5
+Hong Kong: 4
+Philippines: 4
+Algeria: 3
+Indonesia: 2
+Israel: 7
+Poland: 10
+Kazakhstan: 7
+Jamaica: 6
+South Africa: 6
+Thailand: 6
+AIN: 5
+Ethiopia: 4
+Switzerland: 8
+Ecuador: 5
+Portugal: 4
+Greece: 8
+Argentina: 3
+Egypt: 3
+Tunisia: 3
+Botswana: 2
+Chile: 2
+Saint Lucia: 2
+Uganda: 2
+Dominican Republic: 3
+Guatemala: 2
+Morocco: 2
+Dominica: 1
+Pakistan: 1
+Türkiye: 8
+Mexico: 5
+Armenia: 4
+Colombia: 4
+North Korea: 6
+Kyrgyzstan: 6
+Lithuania: 4
+India: 6
+Republic of Moldova: 4
+Kosovo: 2
+Cyprus: 1
+Fiji: 1
+Jordan: 1
+Mongolia: 1
+Panama: 1
+Tajikistan: 3
+Albania: 2
+Grenada: 2
+Malaysia: 2
+Puerto Rico: 2
+Cabo Verde: 1
+Côte d'Ivoire: 1
+Refugee Olympic Team: 1
+Peru: 1
+Qatar: 1
+Singapore: 1
+Slovakia: 1
+Zambia: 1
