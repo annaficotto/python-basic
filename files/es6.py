@@ -1,6 +1,6 @@
 # Apri il file nomi.txt e conta quante righe contiene. Stampa il risultato.
 
-file = open("nomi.txt", "r", encoding="utf-8")
+file = open("files/nomi.txt", "r", encoding="utf-8")
 conta = 0
 for riga in file:
     conta += 1

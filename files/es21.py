@@ -1,7 +1,7 @@
 # Hai un file nomi.txt che contiene un nome per riga. Ordina alfabeticamente i nomi e scrivili in un nuovo file chiamato ordinati.txt.
 
 # Lettura dei nomi
-file = open("nomi.txt", "r", encoding="utf-8")
+file = open("files/nomi.txt", "r", encoding="utf-8")
 lista_nomi = []
 for riga in file:
     lista_nomi.append(riga.strip())
@@ -16,7 +16,7 @@ for i in range(len(lista_nomi)):
             lista_nomi[j] = temp
 
 # Scrittura su nuovo file
-file = open("ordinati.txt", "w", encoding="utf-8")
+file = open("files/ordinati.txt", "w", encoding="utf-8")
 for nome in lista_nomi:
     file.write(nome + "\n")
 file.close()

@@ -7,7 +7,7 @@ Crea un file quadrati.txt e scrivi per ogni numero da 1 a 10 il suo quadrato, su
 5  25
 '''
 
-file = open("quadrati.txt", "w", encoding="utf-8")
+file = open("files/quadrati.txt", "w", encoding="utf-8")
 for i in range(1, 11):
     file.write(str(i) + " " + str(i * i) + "\n")
 file.close()

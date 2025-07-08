@@ -1,6 +1,6 @@
 # Leggi un file testo.txt e conta quante parole distinte contiene, ignorando maiuscole/minuscole.
 
-file = open("testo.txt", "r", encoding="utf-8")
+file = open("files/testo.txt", "r", encoding="utf-8")
 parole_distinte = []
 
 for riga in file:

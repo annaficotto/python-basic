@@ -1,6 +1,6 @@
 # Leggi il file voti.csv e calcola la media dei voti.
 
-file = open("voti.csv", "r", encoding="utf-8")
+file = open("files/voti.csv", "r", encoding="utf-8")
 somma = 0
 conteggio = 0
 

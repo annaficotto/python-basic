@@ -21,4 +21,4 @@ def makeFile(nome, n, a, b, c):
     file.close()
 
 # Esempio di chiamata
-makeFile("out.txt", 5, 1, 10, 20)
+makeFile("files/out.txt", 5, 1, 10, 20)

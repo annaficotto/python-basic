@@ -1,6 +1,6 @@
 # Conta quante parole iniziano con la lettera "A" (maiuscola) nel file parole.txt.
 
-file = open("parole.txt", "r", encoding="utf-8")
+file = open("files/parole.txt", "r", encoding="utf-8")
 conta = 0
 for riga in file:
     parole = riga.strip().split()

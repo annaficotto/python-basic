@@ -1,6 +1,6 @@
 # Scrivi un programma che legge un file testo.txt e stampa la riga più lunga (in termini di numero di caratteri).
 
-file = open("testo.txt", "r", encoding="utf-8")
+file = open("files/testo.txt", "r", encoding="utf-8")
 massima_lunghezza = 0
 riga_lunga = ""
 

@@ -1,7 +1,7 @@
 # Dal file voti.csv, copia solo gli studenti con voto maggiore o uguale a 8 nel file promossi.csv.
 
-voti = open("voti.csv", "r", encoding="utf-8")
-promossi = open("promossi.csv", "w", encoding="utf-8")
+voti = open("files/voti.csv", "r", encoding="utf-8")
+promossi = open("files/promossi.csv", "w", encoding="utf-8")
 
 for riga in voti:
     parti = riga.strip().split(",")

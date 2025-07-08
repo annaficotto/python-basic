@@ -1,6 +1,6 @@
 # Nel file numeri.txt c’è un numero per riga. Trova quale numero compare più volte e quante volte.
 
-file = open("numeri.txt", "r", encoding="utf-8")
+file = open("files/numeri.txt", "r", encoding="utf-8")
 numeri = []
 frequenze = []
 

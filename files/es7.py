@@ -1,6 +1,6 @@
 # Nel file testo.txt è presente un testo qualsiasi. Conta quante volte compare la parola esatta "sole"
 
-file = open("testo.txt", "r", encoding="utf-8")
+file = open("files/testo.txt", "r", encoding="utf-8")
 conta = 0
 for riga in file:
     parole = riga.split()

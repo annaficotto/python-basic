@@ -40,7 +40,7 @@ def medaglie(f):
         totale_bronzo += riga[2]
 
     # Scrittura dei totali per nazione su file
-    out = open("totali.txt", "w", encoding="utf-8")
+    out = open("files/medals_totals.txt", "w", encoding="utf-8")
     for i in range(len(nazioni)):
         totale_nazione = counts[i][0] + counts[i][1] + counts[i][2]
         out.write(nazioni[i] + ": " + str(totale_nazione) + "\n")
@@ -49,7 +49,7 @@ def medaglie(f):
     return [totale_oro, totale_argento, totale_bronzo]
 
 # Esempio di chiamata
-totali = medaglie("medaglie.csv")
+totali = medaglie("files/medals.csv")
 print("Totale medaglie d'oro:", totali[0])
 print("Totale medaglie d'argento:", totali[1])
 print("Totale medaglie di bronzo:", totali[2])

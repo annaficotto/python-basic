@@ -1,7 +1,7 @@
 # Usando il file generato con makeFile, scrivi un programma che lo legge e calcola la media del primo numero di ogni riga e del secondo numero di ogni riga.\\
 # Il file contiene due numeri interi separati da spazio in ogni riga.
 
-file = open("out.txt", "r", encoding="utf-8")
+file = open("files/out.txt", "r", encoding="utf-8")
 
 somma_primo = 0
 somma_secondo = 0

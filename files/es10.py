@@ -1,7 +1,7 @@
-# Dal file frasi.txt, copia nel file con\_sole.txt solo le righe che contengono la parola "sole".
+# Dal file testo.txt, copia nel file con_sole.txt solo le righe che contengono la parola "sole".
 
-origine = open("frasi.txt", "r", encoding="utf-8")
-destinazione = open("con_sole.txt", "w", encoding="utf-8")
+origine = open("files/testo.txt", "r", encoding="utf-8")
+destinazione = open("files/sole.txt", "w", encoding="utf-8")
 
 for riga in origine:
     if "sole" in riga:

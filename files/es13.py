@@ -1,6 +1,6 @@
 # Leggi il file voti.csv e stampa il nome dello studente con il voto più alto.
 
-file = open("voti.csv", "r", encoding="utf-8")
+file = open("files/voti.csv", "r", encoding="utf-8")
 massimo = -1
 nome_top = ""
 

@@ -1,6 +1,6 @@
 # Leggi tutti i nomi da nomi.txt e stampali in maiuscolo, uno per riga.
 
-file = open("nomi.txt", "r", encoding="utf-8")
+file = open("files/nomi.txt", "r", encoding="utf-8")
 for riga in file:
     print(riga.strip().upper())
 file.close()

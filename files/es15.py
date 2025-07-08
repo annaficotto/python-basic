@@ -1,6 +1,6 @@
 # Aggiungi lo studente “Matteo” con voto 7 in fondo al file voti.csv (senza, quindi, cancellare le altre righe).
 
-file = open("voti.csv", "a", encoding="utf-8")
+file = open("files/voti.csv", "a", encoding="utf-8")
 file.write("Matteo,7\n")
 file.close()
 
